@@ -6,6 +6,7 @@ if(len(sys.argv) > 1):
     args = sys.argv[1]
 else:
     args = 'default'
+    print('\n supply an argument for more fun')
 
 prefix = ['akribische','faktengetriebene','proto',
 'numerische','faktengetriebene','quasi','meta','analytische','hochdruck','vacuum','quanten','integriertes','pre','objektifiziert','hermeeutische','hitherto unerforschte','grundlegende','topologische','statistische','technologigetriebene','onotologische', 'demarkante', 'lebenszeit', 'fluktuation', 'stabilitaet', ] 
